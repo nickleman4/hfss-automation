@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+.installed.cfg
+lib/
+lib64/
+develop-eggs/
+.eggs/
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs (keep directory, ignore log files)
+logs/*.log
+logs/*.txt
+
+# Results (keep directory, ignore result files)
+results/*.json
+results/*.csv
+results/*.pkl
+results/*.npy
+
+# HFSS files
+*.aedt.lock
+*.results/
+*.auto/
+*.aedtresults/
+
+# Templates (keep directory, ignore .aedt files uploaded by users)
+templates/*.aedt
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
