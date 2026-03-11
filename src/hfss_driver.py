@@ -114,8 +114,8 @@ class HFSSDriver:
 
         try:
             hfss = Hfss(
-                project=self._project_path,
-                design=self._config.design_name,
+                projectname=self._project_path,
+                designname=self._config.design_name,
                 solution_type=self._config.solution_type,
                 non_graphical=self._config.non_graphical,
                 new_desktop_session=self._config.new_session,
@@ -175,14 +175,15 @@ class HFSSDriver:
             setup.update()
 
             # 配置频率扫描
+            # 配置频率扫描
             sweep_name = "AutoSweep"
             self._hfss.create_linear_count_sweep(
-                setup=setup_name,
-                units=self._config.freq_unit,
-                start_frequency=freq_start,
-                stop_frequency=freq_stop,
+                setupname=setup_name,
+                unit=self._config.freq_unit,
+                freqstart=freq_start,
+                freqstop=freq_stop,
                 num_of_freq_points=num_points,
-                name=sweep_name,
+                sweepname=sweep_name,
                 sweep_type=cfg.get("sweep_type", "Interpolating"),
                 save_fields=False,
             )

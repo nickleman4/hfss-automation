@@ -1,0 +1,108 @@
+ 
+Ansys Electronics Desktop Version 2023.1.0, Build: 2022-11-20 22:10:41
+Location: D:\programme\ANsysEM\v231\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:40:59 下午  3月 10, 2026
+Running as user: DESKTOP-50P54KS\Administrator
+Temp directory: D:\programme\ansystemp
+Project directory: C:\Users\Administrator\Documents\Ansoft
+[info] GRPC server running on port: 62882.
+
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:41:07 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:41:28 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:41:30 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:41:32 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:41:45 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:41:45 下午  3月 10, 2026)
+[error] Project:antenna1, Design:HFSSDesign1 (Modal Network), Script macro error: No trace data for quantity: dB(S(Port1,Port1)) (10:41:45 下午  3月 10, 2026)
+Stopping Batch Run: 10:41:45 下午  3月 10, 2026
+ 
+Ansys Electronics Desktop Version 2023.1.0, Build: 2022-11-20 22:10:41
+Location: D:\programme\ANsysEM\v231\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:42:17 下午  3月 10, 2026
+Running as user: DESKTOP-50P54KS\Administrator
+Temp directory: D:\programme\ansystemp
+Project directory: C:\Users\Administrator\Documents\Ansoft
+[info] GRPC server running on port: 57755.
+
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:42:27 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:42:44 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:42:46 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:42:48 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:43:01 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:43:01 下午  3月 10, 2026)
+[error] Project:antenna1, Design:HFSSDesign1 (Modal Network), Script macro error: No trace data for quantity: dB(S(Port1,Port1)) (10:43:01 下午  3月 10, 2026)
+Stopping Batch Run: 10:43:01 下午  3月 10, 2026
+ 
+Ansys Electronics Desktop Version 2023.1.0, Build: 2022-11-20 22:10:41
+Location: D:\programme\ANsysEM\v231\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:43:29 下午  3月 10, 2026
+Running as user: DESKTOP-50P54KS\Administrator
+Temp directory: D:\programme\ansystemp
+Project directory: C:\Users\Administrator\Documents\Ansoft
+[info] GRPC server running on port: 61900.
+
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:43:37 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:43:53 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:43:56 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:43:58 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:44:11 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:44:11 下午  3月 10, 2026)
+[error] Project:antenna1, Design:HFSSDesign1 (Modal Network), Script macro error: No trace data for quantity: dB(S(Port1,Port1)) (10:44:11 下午  3月 10, 2026)
+Stopping Batch Run: 10:44:11 下午  3月 10, 2026
+ 
+Ansys Electronics Desktop Version 2023.1.0, Build: 2022-11-20 22:10:41
+Location: D:\programme\ANsysEM\v231\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:55:20 下午  3月 10, 2026
+Running as user: DESKTOP-50P54KS\Administrator
+Temp directory: D:\programme\ansystemp
+Project directory: C:\Users\Administrator\Documents\Ansoft
+[info] GRPC server running on port: 63952.
+
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:55:29 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:55:46 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:55:49 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:55:51 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:56:03 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:56:03 下午  3月 10, 2026)
+[error] Project:antenna1, Design:HFSSDesign1 (Modal Network), Script macro error: No trace data for quantity: dB(S(Port1,Port1)) (10:56:03 下午  3月 10, 2026)
+Stopping Batch Run: 10:56:04 下午  3月 10, 2026
+ 
+Ansys Electronics Desktop Version 2023.1.0, Build: 2022-11-20 22:10:41
+Location: D:\programme\ANsysEM\v231\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:56:35 下午  3月 10, 2026
+Running as user: DESKTOP-50P54KS\Administrator
+Temp directory: D:\programme\ansystemp
+Project directory: C:\Users\Administrator\Documents\Ansoft
+[info] GRPC server running on port: 53910.
+
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:56:44 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:57:01 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:57:04 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:57:05 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:57:18 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:57:18 下午  3月 10, 2026)
+[error] Project:antenna1, Design:HFSSDesign1 (Modal Network), Script macro error: No trace data for quantity: dB(S(Port1,Port1)) (10:57:18 下午  3月 10, 2026)
+Stopping Batch Run: 10:57:19 下午  3月 10, 2026
+ 
+Ansys Electronics Desktop Version 2023.1.0, Build: 2022-11-20 22:10:41
+Location: D:\programme\ANsysEM\v231\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 10:57:47 下午  3月 10, 2026
+Running as user: DESKTOP-50P54KS\Administrator
+Temp directory: D:\programme\ansystemp
+Project directory: C:\Users\Administrator\Documents\Ansoft
+[info] GRPC server running on port: 61831.
+
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:57:54 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:58:11 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:58:14 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), For machine DESKTOP-50P54KS GPU NVIDIA GeForce RTX 4060 is excluded for the following reason:  not a supported gpu architecture. (10:58:16 下午  3月 10, 2026)
+[warning] Project:antenna1, Design:HFSSDesign1 (Modal Network), Adaptive Passes did not converge based on specified criteria. (10:58:29 下午  3月 10, 2026)
+[info] Project:antenna1, Design:HFSSDesign1 (Modal Network), Normal completion of simulation on server: Local Machine. (10:58:29 下午  3月 10, 2026)
+[error] Project:antenna1, Design:HFSSDesign1 (Modal Network), Script macro error: No trace data for quantity: dB(S(Port1,Port1)) (10:58:29 下午  3月 10, 2026)
+Stopping Batch Run: 10:58:29 下午  3月 10, 2026
